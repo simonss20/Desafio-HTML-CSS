@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+.text {
+    margin: 0 19%;
+    font-size: 1vw;
+}
+body {
+    padding-bottom: 3vh;
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 3vh;
+}
+h1 {
+    font-family: "Calibri";
+    font-weight: 1;
+    font-size: 4vw !important;
+    color: white;
+}
+h2 {
+    font-size: 2.5vw !important;
+}
+h3 {
+    font-size: 1.8vw !important;
+}
+.negrita {
+    font-weight: bold;
+}
+
+.header {
+    background-color: gray;
+    padding-bottom: 35vh;
+}
+a {
+    margin-right: 5pt;
+}
+button {
+    padding: 0 .5vw;
+    font-size: 1.2vw !important;
+}
+.footer {
+    background-color: gray;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    height: 6.25vh;
+    font-size: 2vw;
+}
